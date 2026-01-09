@@ -186,6 +186,5 @@ Add machine learning models for yield prediction
 Deploy dashboards online using Power BI Service
 
 👨‍💻 Author
-
-Reavan C
+purusoth
 Data Science Student
